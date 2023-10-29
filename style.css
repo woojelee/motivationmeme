@@ -2,21 +2,18 @@ html {
     background-color: black;
 }
 
-.text {
-    font-family: 'Libre Baskerville', serif;
-    color: white;
-    text-align: center;
-}
-
 img {
     border: 5px white solid;
     height: 400px;
 }
 
-div {
+#meme {
     width: 50%;
     margin-left: 25%;
     margin-top: 5%;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
 }
 
 h1 {
